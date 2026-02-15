@@ -2,7 +2,7 @@
 
 Open protocol for AI agent data discovery, validation, and payment.
 
-Built by [Brandon Weber](https://github.com/BrandonWeber-Nymbl).
+Built by [Brandon Weber](https://github.com/brandon-weber).
 
 The missing layer between AI agents and the data they need 
 to do useful work in the world.
