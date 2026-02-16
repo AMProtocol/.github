@@ -11,6 +11,6 @@ to do useful work in the world.
 - **Validator**: validates live APIs against the spec
 - **Registry**: public index of verified agent-ready APIs
 
-[Read the spec](https://agent-manifest.com/spec) · 
-[Validate your API](https://validator-production-0d91.up.railway.app) · 
-[Browse the registry](https://registry-production-7be2.up.railway.app/listings)
+[Read the spec](https://validator.agent-manifest.com/spec) · 
+[Validate your API](https://validator.agent-manifest.com) · 
+[Browse the registry](https://api.agent-manifest.com/listings)
